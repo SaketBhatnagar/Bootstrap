@@ -1,3 +1,6 @@
+
+
+
 .jumbotron{
 
   background-color:#0052d6;
@@ -48,4 +51,7 @@ margin-top: 5px;
 .marg2
 {
   padding-bottom: 20px;
+}
+#login{
+  right:40px;
 }
